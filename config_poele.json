@@ -1,0 +1,6 @@
+{
+    "temperature_cible": 30.0,
+    "vitesse_moteur_max": 1800.0,
+    "seuil_temperature_fumee": 111.0,
+    "etat": false
+}
